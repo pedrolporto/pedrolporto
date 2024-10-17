@@ -1,18 +1,12 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7aceff&height=180&section=header&text=Pedro+Porto&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
+[![Conde Programador - Ativo](https://img.shields.io/badge/Estado-Ativo-brightgreen)](https://www.linkedin.com/in/pedro-porto-0ba678a2/)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7aceff&height=180&section=header&text=Pedro+Porto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Analista+de+Dados;Analista+de+BI;Cientista+de+Dados;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 #
 
-[![Conde Programador - Ativo](https://img.shields.io/badge/Estado-Ativo-brightgreen)](https://www.linkedin.com/in/pedro-porto-0ba678a2/)
-
-#
-
-
-
-### 🏆 GitHub Profile Trophy
+### 🏆 GitHub Repositório de Troféus
 
 <p align="center">
   <a
@@ -26,17 +20,8 @@
   </a>
 </p>
 
-<div align="center"> 
-  <h3 align="left">Git Stats</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolporto&layout=compact&hide_border=true&title_color=000000&text_color=666666&bg_color=C2C2C2" />
-</div>
-
 
 # 
-
-<div align="center"> 
-    <h1>pedrolporto<h1>
-</div>
 
 Sou **Analista de Business Intelligence (BI)** com sólida experiência em extração, transformação e análise de dados (ETL), criação de dashboards interativos e automação de relatórios. Ao longo de minha carreira, desenvolvi soluções que suportam a tomada de decisões estratégicas, garantindo a integridade, segurança e confidencialidade das informações.
 
@@ -69,6 +54,10 @@ Estou constantemente aprimorando minhas habilidades em **análise de dados**, **
 - Power BI
 - Looker
 
+
+### Linguagens de codificação
+ [![pedrolporto](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolporto&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Domínio de Relacionamentos
 
 - SQL
@@ -77,7 +66,7 @@ Estou constantemente aprimorando minhas habilidades em **análise de dados**, **
 
 -  Dashboards de escritório de advocacia
 
-## Experiência Digital
+## Experiência
 
 - 🖋️ Desenvolvedor na OnixSeven - Tecnologia em Gestão Pública  (2015 - 2019)
 - 🎩 Analista de dados na OnixSeven - Tecnologia em Gestão Pública (2021 - 2024)
