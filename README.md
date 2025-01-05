@@ -37,6 +37,11 @@ Análise de métricas da Google Play Store:
 - Comparação de categorias e performance de aplicativos.
 - Insights sobre tendências de mercado e preferências dos usuários.
 
+### 🔗 [Desafio de SQL para Gestão Hospitalar](https://github.com/pedrolporto/desafio_sqlite_hospital)
+Aplicação de SQL:
+- Construção e otimização de consultas complexas.
+- Proficiência em SQL em diferentes níveis de dificuldade.
+
 ---
 
 ## 🌟 Habilidades Técnicas
