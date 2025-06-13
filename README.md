@@ -9,7 +9,7 @@
 
 ## 🔍 Sobre Mim
 
-Analista de dados com mais de 3 anos de experiência em:
+Analista de dados desde 2015 com experiência em:
 - Elaboração de relatórios e dashboards interativos.
 - Processos de ETL (Extração, Transformação e Carga de Dados).
 - Comunicação estratégica com stakeholders para suporte na tomada de decisões.
