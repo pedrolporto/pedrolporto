@@ -1,92 +1,133 @@
 # Pedro Porto
 
-**ANALISTA DE DADOS**
+**Desenvolvedor de Soluções | Dados, Integrações e Sistemas em Saúde**
 
-📍 Brasil  
-🔗 [Portfólio no GitHub](https://github.com/pedrolporto) | [Perfil no LinkedIn](https://www.linkedin.com/in/ppremium-data/)
-
----
-
-## 🔍 Sobre Mim
-
-Analista de dados desde 2015 com experiência em:
-- Elaboração de relatórios e dashboards interativos.
-- Processos de ETL (Extração, Transformação e Carga de Dados).
-- Comunicação estratégica com stakeholders para suporte na tomada de decisões.
-
-Proficiência em:
-- **Ferramentas:** SQL, Python, Power BI, Excel Avançado.
-- **Habilidades:** Análise e Visualização de Dados, Modelagem e Coleta.
+📍 Londrina - PR, Brasil  
+🔗 [LinkedIn](https://www.linkedin.com/in/ppremium-data/) • [GitHub](https://github.com/pedrolporto)
 
 ---
 
-## 📂 Projetos em Destaque
+## 🧠 Visão Profissional
 
-### 🔗 [Análise de Dados Ifood](https://github.com/pedrolporto/ifood_data_analysis)
-Análise exploratória e visualização de dados simulados relacionados a pedidos e avaliações do iFood. Inclui:
-- Processamento e limpeza dos dados.
-- Visualizações com insights acionáveis sobre performance de entregas e satisfação do cliente.
+Atuo no desenvolvimento de soluções tecnológicas para o ambiente hospitalar, integrando **software, dados e processos críticos** para geração de valor institucional.
 
-### 🔗 [Dashboards Looker](https://github.com/pedrolporto/looker_dashboard)
-Criação de dashboards utilizando Looker para análises interativas:
-- Integração de fontes diversas.
-- Relatórios customizados para tomada de decisões.
+Minha atuação combina:
+- Desenvolvimento de aplicações
+- Engenharia de dados
+- Integração de sistemas (APIs)
+- Automação de processos
+- Inteligência operacional
 
-### 🔗 [Estatísticas Google Store](https://github.com/pedrolporto/google_store)
-Análise de métricas da Google Play Store:
-- Comparação de categorias e performance de aplicativos.
-- Insights sobre tendências de mercado e preferências dos usuários.
-
-### 🔗 [Desafio de SQL para Gestão Hospitalar](https://github.com/pedrolporto/desafio_sqlite_hospital)
-Aplicação de SQL:
-- Construção e otimização de consultas complexas.
-- Proficiência em SQL em diferentes níveis de dificuldade.
+Com foco em:
+> performance, confiabilidade, segurança e aderência regulatória.
 
 ---
 
-## 🌟 Habilidades Técnicas
+## 🚀 Destaques de Impacto
 
-### SQL Avançado
-- Otimização de consultas para maior eficiência.
-- Criação e manutenção de **views, triggers** e **functions**.
-- Automação de tarefas e extração de dados complexos.
+- 🏥 Desenvolvimento de aplicações estratégicas utilizadas na operação hospitalar
+- 📊 Criação de dashboards e análises para suporte à decisão
+- 🔗 Construção de APIs e integrações com sistemas clínicos (MV/PEP)
+- ⚙️ Automação de processos com ganho real de eficiência operacional
 
-### Business Intelligence (BI)
-- Desenvolvimento de dashboards interativos com Power BI e Looker.
-- Análise estratégica baseada em dados para múltiplos departamentos.
+### ⭐ Projeto de Destaque
 
-### Python
-- Análise e modelagem de dados.
-- Aplicação de Machine Learning para soluções preditivas.
-
-### Visualização de Dados
-- Comunicação clara de insights usando storytelling com dados.
-- Dashboards intuitivos e gráficos impactantes.
+**AIH Digital (Autorização de Internação Hospitalar)**  
+- Desenvolvimento completo da solução  
+- Processo 100% digital conforme exigências do SUS  
+- Contribuição direta para posicionar a instituição como **pioneira na adoção digital**
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🧩 Projetos Relevantes
 
-- **2024**: Master of Data Science and Artificial Intelligence, *DataTech Florida*.
-- **2017**: Análise e Desenvolvimento de Sistemas, *UNOPAR*.
-- **2014**: Automação, *SENAI*.
+### 🏥 PRIME APP
+Aplicação institucional voltada à apresentação de indicadores e benefícios médicos:
+- Interface otimizada para experiência do usuário
+- Integração com dados internos
+- Foco em valor e engajamento
 
 ---
 
-### 🏆 GitHub Repositório de Troféus
+### 💊 Manual Farmacológico
+Sistema de apoio clínico:
+- Organização estruturada de informações farmacológicas
+- Suporte à decisão médica
+- Acesso rápido e confiável
+
+---
+
+### 📊 Projetos de Dados (Portfólio)
+
+#### 🔗 [Análise de Dados Ifood](https://github.com/pedrolporto/ifood_data_analysis)
+- Processamento e limpeza de dados
+- Visualização e insights acionáveis
+
+#### 🔗 [Dashboards Looker](https://github.com/pedrolporto/looker_dashboard)
+- Construção de dashboards interativos
+- Integração de múltiplas fontes
+
+#### 🔗 [Google Store Analytics](https://github.com/pedrolporto/google_store)
+- Análise de mercado e performance de apps
+- Identificação de tendências
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 💾 Dados & Banco
+- Oracle SQL (MV / PEP)
+- PostgreSQL
+- Modelagem e otimização de queries
+- Views, procedures e performance tuning
+
+### 🔗 Integrações
+- APIs REST
+- Integração entre sistemas hospitalares
+- Segurança e controle de acesso
+
+### 📊 BI & Analytics
+- Power BI
+- Looker
+- Excel 
+
+### 🧠 Programação
+- JavaScript
+- PHP
+- Python (análise de dados)
+
+---
+
+## 🎯 Diferenciais
+
+- Visão sistêmica (negócio + tecnologia)
+- Capacidade de transformar demandas complexas em soluções viáveis
+- Experiência com sistemas críticos (saúde)
+- Foco em eficiência operacional e geração de valor
+
+---
+
+## 🎓 Formação
+
+- Análise e Desenvolvimento de Sistemas — UNOPAR
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=pedrolporto&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
+  <img
+    width="800"
+    src="https://github-profile-trophy.vercel.app/?username=pedrolporto&column=8&theme=darkhub&no-frame=true&no-bg=true"
+  />
 </p>
 
 ---
 
-Acompanhe mais detalhes nos repositórios do meu [GitHub](https://github.com/pedrolporto)! 🚀
+## 🤝 Contato
+ 
+🔗 [LinkedIn](https://www.linkedin.com/in/ppremium-data/)
+
+---
+
+> “Tecnologia não é apenas código — é estrutura, decisão e impacto.”
