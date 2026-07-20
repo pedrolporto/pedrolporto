@@ -1,0 +1,38 @@
+{
+  "profile": "https://github.com/pedrolporto",
+  "profile_repository": "https://github.com/pedrolporto/pedrolporto",
+  "positioning": {
+    "title": "Analista de Desenvolvimento I",
+    "focus": [
+      "Backend",
+      "Integrações",
+      "Oracle",
+      "Node.js",
+      "Sistemas Hospitalares"
+    ],
+    "work_preferences": [
+      "Híbrido em Londrina",
+      "Remoto nacional"
+    ],
+    "public_contact": {
+      "linkedin": "https://www.linkedin.com/in/ppremium-data/",
+      "email": "ppremium_data@outlook.com",
+      "phone_included": false
+    }
+  },
+  "content_decisions": [
+    "Separar cases profissionais privados de projetos públicos.",
+    "Não usar ranking de linguagens, pois os repositórios públicos atuais não representam integralmente a stack profissional.",
+    "Não expor código ou informações confidenciais do ambiente hospitalar.",
+    "Apresentar Docker como competência em evolução.",
+    "Priorizar clareza para recrutadores em vez de widgets de vaidade."
+  ],
+  "featured_public_repositories": [
+    "desafio_sqlite_hospital",
+    "ifood_data_analysis",
+    "site_php_estruturado",
+    "google_store",
+    "looker_dashboard"
+  ],
+  "next_portfolio_priority": "Criar uma API REST pública em Node.js/Express com Oracle ou banco relacional equivalente, testes, Docker e documentação OpenAPI."
+}
