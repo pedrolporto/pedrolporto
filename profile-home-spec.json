@@ -1,38 +1,59 @@
 {
-  "profile": "https://github.com/pedrolporto",
-  "profile_repository": "https://github.com/pedrolporto/pedrolporto",
+  "version": "2.0",
   "positioning": {
-    "title": "Analista de Desenvolvimento I",
-    "focus": [
-      "Backend",
-      "Integrações",
-      "Oracle",
-      "Node.js",
-      "Sistemas Hospitalares"
+    "official_title": "Analista de Desenvolvimento I",
+    "market_identity": "Profissional full stack com diferencial em UX/UI, dados, BI, integrações e sistemas hospitalares",
+    "pillars": [
+      "Desenvolvimento full stack",
+      "UX/UI e experiência digital",
+      "Dados e Business Intelligence",
+      "Integrações, automação e negócio"
     ],
     "work_preferences": [
       "Híbrido em Londrina",
       "Remoto nacional"
-    ],
-    "public_contact": {
-      "linkedin": "https://www.linkedin.com/in/ppremium-data/",
-      "email": "ppremium_data@outlook.com",
-      "phone_included": false
-    }
+    ]
   },
-  "content_decisions": [
-    "Separar cases profissionais privados de projetos públicos.",
-    "Não usar ranking de linguagens, pois os repositórios públicos atuais não representam integralmente a stack profissional.",
-    "Não expor código ou informações confidenciais do ambiente hospitalar.",
-    "Apresentar Docker como competência em evolução.",
-    "Priorizar clareza para recrutadores em vez de widgets de vaidade."
+  "editorial_corrections": [
+    "Backend deixou de ser a identidade central e passou a ser uma das competências.",
+    "UX/UI foi elevado a pilar de diferenciação profissional.",
+    "Dados e BI foram reintegrados como parte ativa da proposta de valor.",
+    "Os cases profissionais agora demonstram interface, experiência, dados e backend.",
+    "A identidade visual passou a representar quatro pilares complementares."
   ],
-  "featured_public_repositories": [
-    "desafio_sqlite_hospital",
-    "ifood_data_analysis",
-    "site_php_estruturado",
-    "google_store",
-    "looker_dashboard"
-  ],
-  "next_portfolio_priority": "Criar uma API REST pública em Node.js/Express com Oracle ou banco relacional equivalente, testes, Docker e documentação OpenAPI."
+  "public_contact": {
+    "linkedin": "https://www.linkedin.com/in/ppremium-data/",
+    "email": "ppremium_data@outlook.com",
+    "phone_included": false
+  },
+  "confidentiality": {
+    "publish_corporate_code": false,
+    "publish_sensitive_data": false,
+    "case_format": "Contexto, responsabilidades, arquitetura em alto nível e impacto sem dados confidenciais"
+  },
+  "next_flagship_project": {
+    "type": "Aplicação full stack orientada por UX e dados",
+    "recommended_stack": [
+      "Node.js",
+      "Express",
+      "JavaScript ou TypeScript",
+      "HTML/CSS",
+      "Banco relacional",
+      "Power BI ou dashboard web",
+      "Docker",
+      "Testes",
+      "OpenAPI"
+    ],
+    "deliverables": [
+      "Pesquisa do problema",
+      "Fluxo do usuário",
+      "Wireframes",
+      "Interface responsiva",
+      "API",
+      "Banco",
+      "Indicadores",
+      "Testes",
+      "Documentação"
+    ]
+  }
 }
