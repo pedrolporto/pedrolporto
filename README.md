@@ -10,19 +10,149 @@
     <img src="https://img.shields.io/badge/E--mail-Contato_profissional-334155?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail profissional">
   </a>
   <a href="https://github.com/pedrolporto?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios no GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios">
   </a>
 </p>
 
 ## Sobre mim
 
-Sou **Analista de Desenvolvimento I e profissional full stack**, com trajetória em tecnologia iniciada em 2014. Minha atuação integra desenvolvimento de software, experiência do usuário, dados, BI, automação e compreensão de negócio.
+Sou **Analista de Desenvolvimento I e profissional full stack**, com trajetória em tecnologia iniciada em 2014. Minha atuação integra desenvolvimento de software, experiência do usuário, dados, Business Intelligence, automação e compreensão de negócio.
 
 Desenvolvo soluções completas: investigo o problema, compreendo o fluxo operacional, estruturo os dados, desenho a experiência, implemento interfaces e serviços, integro sistemas e acompanho o resultado em produção.
 
 No ambiente hospitalar, atuo em processos críticos que exigem confiabilidade, clareza, segurança e aderência a regras de negócio. Ingressei como Analista de Desenvolvimento Trainee em janeiro de 2025 e fui promovido para **Analista de Desenvolvimento I em maio de 2026**.
 
 > Transformo problemas complexos em experiências digitais claras, soluções técnicas sustentáveis e informações úteis para decisão.
+
+## Portfólio técnico
+
+Os repositórios abaixo apresentam **estudos de caso profissionais documentados**, com arquitetura conceitual, decisões técnicas, UX/UI, exemplos sintéticos, segurança e resultados observados. Código corporativo, credenciais, dados assistenciais e estruturas internas não são publicados.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AIH Digital](https://github.com/pedrolporto/case-aih-digital)
+
+Digitalização do fluxo de Autorizações de Internação Hospitalar, com auditoria, lotes, rastreabilidade e integração hospitalar.
+
+**Demonstra**
+
+- Desenvolvimento full stack
+- Modelagem de fluxo operacional
+- UX para processos críticos
+- Oracle e integrações
+- Auditoria e segurança
+- Faturamento SUS
+
+**Tecnologias**
+
+`Node.js` `Express` `JavaScript` `Oracle` `Knex` `JWT` `Socket.IO`
+
+</td>
+<td width="50%" valign="top">
+
+### [Tempo de Espera Hospitalar](https://github.com/pedrolporto/case-tempo-espera-hospitalar)
+
+Indicadores públicos e gerenciais para acompanhamento de tempos de atendimento, com diferentes modelos de leitura operacional e executiva.
+
+**Demonstra**
+
+- Full stack e visualização
+- Arquitetura orientada a dados
+- UX para múltiplos públicos
+- Cache e desacoplamento
+- Segurança e observabilidade
+- Publicação de aplicações
+
+**Tecnologias**
+
+`Node.js` `Express` `Oracle` `SQLite` `Knex` `JWT` `Pino` `Helmet`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PRIME](https://github.com/pedrolporto/case-prime)
+
+Plataforma de relacionamento, pontuação, ciclos, benefícios e experiência digital para o corpo clínico.
+
+**Demonstra**
+
+- Produto digital e UX/UI
+- Jornadas de usuário e administração
+- Dados, indicadores e regras
+- Aplicação responsiva e PWA
+- Notificações e comunicação
+- Integração e automação
+
+**Tecnologias**
+
+`Node.js` `Express` `EJS` `Oracle` `MariaDB` `Redis` `PWA` `Web Push`
+
+</td>
+<td width="50%" valign="top">
+
+### [NDEX — Núcleo de Dados Extensível](https://github.com/pedrolporto/case-api-ndex)
+
+API institucional extensível para centralizar integrações autorizadas, permissões, cache, auditoria e documentação.
+
+**Demonstra**
+
+- Arquitetura de APIs
+- Autenticação e autorização
+- Cibersegurança aplicada
+- Cache e rate limiting
+- Auditoria e observabilidade
+- Documentação automatizada
+
+**Tecnologias**
+
+`Node.js` `Express` `Oracle` `SQLite` `Knex` `HMAC` `Rate Limit` `Testes`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [SAS E-mail](https://github.com/pedrolporto/case-sas-email)
+
+Automação para leitura, classificação, consolidação e publicação controlada de informações recebidas por e-mail.
+
+**Demonstra**
+
+- Automação de processos
+- Integração Node.js e Python
+- Aplicação controlada de IA
+- Orquestração e tolerância a falhas
+- Auditoria de execução
+- Integração com arquivos e rede
+
+**Tecnologias**
+
+`Node.js` `Python` `IMAP` `IA via API` `XLSX` `SQLite` `CRON` `SMB`
+
+</td>
+<td width="50%" valign="top">
+
+### Confidencialidade por projeto
+
+Cada case utiliza uma apresentação sanitizada, com:
+
+- Dados sintéticos
+- Interfaces recriadas
+- Diagramas em alto nível
+- Exemplos fictícios
+- Ausência de credenciais
+- Omissão da topologia interna
+- Separação entre contribuição individual e trabalho da equipe
+
+O objetivo é demonstrar **raciocínio, arquitetura, experiência e impacto**, preservando propriedade intelectual e segurança institucional.
+
+</td>
+</tr>
+</table>
 
 ## Meu diferencial
 
@@ -90,9 +220,9 @@ Meu perfil não está restrito a uma única camada da tecnologia. Trabalho na co
 ## Tecnologias e práticas
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-Full_Stack-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-APIs_REST-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/JavaScript-Full_Stack-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-Aplicações-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-Aplicações-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/HTML5-Interfaces-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-UX%2FUI-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -113,63 +243,13 @@ Meu perfil não está restrito a uma única camada da tecnologia. Trabalho na co
 | **Infraestrutura de aplicações** | Linux Server, Nginx, PM2, CRON, WinSCP e familiaridade inicial com Docker |
 | **Negócio** | Sistemas hospitalares, MV, TOTVS RM, faturamento SUS, requisitos, documentação e melhoria de processos |
 
-## Cases profissionais
-
-> Os códigos, dados e regras internas dos projetos corporativos não são públicos. Os resumos abaixo apresentam contexto, responsabilidades e arquitetura em alto nível, preservando confidencialidade e propriedade intelectual.
-
-### AIH Digital
-
-Aplicação desenvolvida desde a concepção para apoiar fluxos relacionados à **Autorização de Internação Hospitalar e ao faturamento SUS**.
-
-**Minha atuação**
-
-- Compreensão do processo e tradução das regras de negócio.
-- Estruturação de fluxos de importação, validação, atualização e consolidação.
-- Auditoria, rastreabilidade e reversão controlada de operações.
-- Desenvolvimento da interface e organização da jornada operacional.
-- Documentação funcional para uso, sustentação e continuidade.
-
-### Tempo de Espera Hospitalar
-
-Solução para acompanhamento de tempos operacionais em diferentes unidades hospitalares.
-
-**Minha atuação**
-
-- Backend em Node.js com acesso a dados Oracle.
-- Regras específicas por unidade e fluxo assistencial.
-- Organização visual das informações para leitura rápida.
-- Construção de diferentes modelos de apresentação.
-- Publicação em Linux com Nginx e gerenciamento por PM2.
-- Apoio ao acompanhamento operacional e gerencial.
-
-### PRIME
-
-Aplicação institucional de relacionamento e adesão.
-
-**Minha atuação**
-
-- Desenvolvimento e evolução de funcionalidades.
-- Campanhas, pontuação, níveis, benefícios e notificações.
-- Estruturação da experiência para usuários e administradores.
-- Organização visual de indicadores, conteúdos e jornadas.
-- Integração de dados operacionais com a aplicação.
-
-### Integrações, dados e automações
-
-- APIs REST e comunicação entre aplicações.
-- Consultas e rotinas com Oracle SQL e PL/SQL.
-- Automação por scripts, CRON e processamento de arquivos.
-- Relatórios, dashboards e indicadores operacionais.
-- Integração com MV, TOTVS RM e sistemas terceiros.
-- Foco em consistência, rastreabilidade e redução de tarefas manuais.
-
-## Projetos públicos selecionados
+## Outros projetos públicos selecionados
 
 | Projeto | Competências demonstradas |
 |---|---|
 | **[Desafio SQL para Gestão Hospitalar](https://github.com/pedrolporto/desafio_sqlite_hospital)** | SQL, modelagem relacional, raciocínio analítico e domínio hospitalar |
 | **[iFood Business Intelligence Challenge](https://github.com/pedrolporto/ifood_data_analysis)** | Python, Power BI, KPIs, churn, retenção, LTV, CAC e storytelling de dados |
-| **[CRUD estruturado em PHP](https://github.com/pedrolporto/site_php_estruturado)** | Desenvolvimento full stack, persistência de dados, interface web e operações CRUD |
+| **[CRUD estruturado em PHP](https://github.com/pedrolporto/site_php_estruturado)** | Desenvolvimento web, persistência de dados, interface e operações CRUD |
 | **[Google Store Analytics](https://github.com/pedrolporto/google_store)** | Power BI, análise de desempenho, hierarquia visual e narrativa orientada a dados |
 | **[Dashboard de campanhas no Looker](https://github.com/pedrolporto/looker_dashboard)** | Visualização interativa, métricas de campanha e comunicação executiva |
 
